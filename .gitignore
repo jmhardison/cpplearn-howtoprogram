@@ -115,10 +115,10 @@ fabric.properties
 *.exe
 *.out
 *.app
+chap*/*
 
 # BUILD Dirs
 build/
 
 # CMake
 cmake-build-*/
-
