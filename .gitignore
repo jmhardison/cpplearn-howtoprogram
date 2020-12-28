@@ -116,6 +116,7 @@ fabric.properties
 *.out
 *.app
 chap*/*
+!chap*/*.cpp
 
 # BUILD Dirs
 build/
