@@ -2,7 +2,7 @@
 
 int main(){
 
-    int number1{0};
+    int number1{0}; //new since the last time I used C++... list initialization instead of int number1 = 0;
     int number2{0};
     int sum{0};
 
