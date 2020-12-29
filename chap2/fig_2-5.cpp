@@ -13,6 +13,6 @@ int main(){
 
     sum = number1 + number2;
 
-    std::cout << "The sum is: " << sum;
+    std::cout << "The sum is: " << sum << std::endl;
 
 }
