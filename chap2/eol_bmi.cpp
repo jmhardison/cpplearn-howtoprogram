@@ -9,7 +9,7 @@ using namespace std;
 int main(){
     int weightPounds{0};
     int heightInches{0};
-    float bmi{0.0};
+    int bmi{0};
 
     cout << "What is your weight in pounds: ";
     cin >> weightPounds;
